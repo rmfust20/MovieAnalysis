@@ -52,8 +52,8 @@ for row in rows:
        answer_dict[row[1]] = rating + " (Avg. " + gender + " users rating) " 
 
 #Write to the file
-for x in answer_dict:
-  f.write(x +  " : " + answer_dict[x] + "\n")
+for title in answer_dict:
+  f.write(title +  " : " + answer_dict[title] + "\n")
 
 # Close the cursor and connection
 cursor.close()

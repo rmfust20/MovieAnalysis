@@ -37,8 +37,8 @@ for row in rows:
        answer_dict[row[0]] = str(row[1]) + " " + row[2]
 
 #Write the results to the file
-for x in answer_dict:
-  f.write(str(x) +  " : " + answer_dict[x] + "\n")
+for title in answer_dict:
+  f.write(str(title) +  " : " + answer_dict[title] + "\n")
 # Close the cursor and connection
 cursor.close()
 conn.close()
