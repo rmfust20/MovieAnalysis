@@ -14,7 +14,7 @@ cursor.execute('''
                     users.UserID, MovieID as ID, Gender as gender, avg(Rating) as average
                 From
                     users, ratings
-                where 
+                Where 
                     users.UserID = ratings.UserID
                 Group by 
                     MovieID, Gender)
@@ -22,7 +22,7 @@ cursor.execute('''
                     h.gender, movies.Title, h.average
                From
                     movies,h
-               where
+               Where
                     movies.MovieID = h.ID
                Order by 
                     Title

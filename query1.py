@@ -16,11 +16,11 @@ cursor.execute('''
                     MovieID
                 Order by 
                     average)
-               select
+               Select
                      movies.Title, h.average
-               from 
+               From 
                     movies, h
-               where
+               Where
                     movies.MovieID = h.ID;
                ''')
 rows = cursor.fetchall()

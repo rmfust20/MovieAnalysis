@@ -9,11 +9,12 @@ cursor = conn.cursor()
 #Similar to query2 this won't give us our data all in one line 
 #So we will need to post process
 cursor.execute('''
-              select year, count(genre), genre
-               from genres, movies
-               where 
+              Select year, count(genre), genre
+              From 
+                    genres, movies
+              Where 
                     genres.MovieID = movies.MovieID
-               group by
+              Group by
                     year, genre;
                ''')
 rows = cursor.fetchall()
