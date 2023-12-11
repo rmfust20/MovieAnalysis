@@ -1,0 +1,82 @@
+Year, Count, Genre 
+1919 : 1 Action, 1 Adventure, 1 Comedy, 2 Drama
+1920 : 2 Comedy
+1921 : 1 Action
+1922 : 1 Drama, 1 Horror
+1923 : 2 Comedy, 1 Drama
+1925 : 3 Comedy, 3 Drama, 1 War
+1926 : 1 Adventure, 1 Comedy, 1 Crime, 4 Drama, 1 Sci-Fi, 1 Thriller
+1927 : 2 Comedy, 4 Drama, 2 Romance, 1 War
+1928 : 3 Comedy
+1929 : 1 Drama, 1 Musical, 1 Thriller
+1930 : 1 Comedy, 1 Crime, 1 Documentary, 3 Drama, 1 Musical, 2 Mystery, 1 Thriller, 1 War
+1931 : 2 Comedy, 1 Crime, 2 Drama, 1 Film-Noir, 2 Horror, 1 Romance, 1 Thriller, 1 Western
+1932 : 2 Comedy, 2 Drama, 1 Horror, 4 Romance, 1 Thriller, 1 War
+1933 : 2 Action, 2 Adventure, 2 Comedy, 1 Drama, 2 Horror, 1 Musical, 1 Romance, 1 Sci-Fi, 1 War
+1934 : 4 Comedy, 1 Drama, 1 Musical, 1 Mystery, 1 Romance, 1 Thriller
+1935 : 1 Adventure, 2 Comedy, 1 Horror, 1 Musical, 2 Romance, 1 Thriller
+1936 : 2 Comedy, 2 Drama, 1 Musical, 1 Mystery, 2 Thriller
+1937 : 1 Animation, 1 Children's, 3 Comedy, 1 Crime, 6 Drama, 5 Musical, 2 Romance, 1 Thriller, 1 War
+1938 : 1 Action, 1 Adventure, 3 Comedy, 2 Drama, 1 Mystery, 2 Romance, 1 Thriller
+1939 : 2 Adventure, 1 Animation, 3 Children's, 2 Comedy, 1 Crime, 7 Drama, 1 Horror, 1 Musical, 2 Romance, 1 War
+1940 : 1 Adventure, 3 Animation, 3 Children's, 6 Comedy, 4 Drama, 2 Horror, 2 Musical, 4 Romance, 1 Sci-Fi, 2 Thriller, 3 Western
+1941 : 1 Animation, 1 Children's, 3 Comedy, 4 Drama, 1 Film-Noir, 1 Horror, 2 Musical, 2 Mystery, 2 Romance, 1 Thriller
+1942 : 1 Action, 1 Animation, 1 Children's, 4 Comedy, 5 Drama, 2 Horror, 1 Musical, 1 Romance, 1 Thriller, 4 War, 1 Western
+1943 : 1 Adventure, 1 Animation, 1 Children's, 2 Comedy, 3 Drama, 1 Film-Noir, 2 Horror, 1 Mystery, 2 Thriller, 2 War, 1 Western
+1944 : 1 Action, 2 Comedy, 2 Crime, 2 Drama, 4 Film-Noir, 4 Horror, 1 Musical, 3 Mystery, 4 Thriller, 2 War
+1945 : 1 Animation, 1 Children's, 1 Comedy, 5 Drama, 2 Horror, 2 Musical, 1 Mystery, 2 Romance, 1 Thriller, 2 War
+1946 : 1 Adventure, 2 Animation, 2 Children's, 1 Crime, 6 Drama, 3 Film-Noir, 2 Musical, 1 Mystery, 2 Romance, 2 Thriller, 1 War, 1 Western
+1947 : 1 Adventure, 1 Animation, 1 Children's, 2 Comedy, 2 Crime, 4 Drama, 4 Film-Noir, 1 Musical, 2 Romance, 1 Western
+1948 : 1 Adventure, 1 Animation, 1 Children's, 2 Comedy, 2 Crime, 5 Drama, 4 Film-Noir, 1 Horror, 1 Musical, 3 Thriller
+1949 : 1 Adventure, 2 Children's, 1 Crime, 6 Drama, 2 Musical, 1 Mystery, 1 Romance, 1 Thriller
+1950 : 1 Animation, 2 Children's, 3 Comedy, 1 Crime, 3 Drama, 2 Film-Noir, 1 Musical, 2 Mystery, 3 Sci-Fi, 1 Thriller
+1951 : 2 Action, 2 Adventure, 1 Animation, 1 Children's, 5 Drama, 1 Film-Noir, 3 Musical, 3 Romance, 2 Sci-Fi, 1 Thriller, 2 War
+1952 : 1 Action, 3 Adventure, 2 Comedy, 1 Crime, 5 Drama, 1 Musical, 2 Romance, 1 Sci-Fi, 1 Western
+1953 : 2 Action, 1 Animation, 1 Children's, 2 Comedy, 6 Drama, 1 Fantasy, 1 Film-Noir, 2 Musical, 2 Romance, 3 Sci-Fi, 2 Thriller, 3 War, 1 Western
+1954 : 2 Action, 2 Adventure, 1 Children's, 2 Comedy, 2 Crime, 5 Drama, 1 Fantasy, 1 Horror, 1 Musical, 2 Mystery, 1 Romance, 4 Sci-Fi, 3 Thriller, 1 War
+1955 : 1 Animation, 1 Children's, 3 Comedy, 8 Drama, 2 Film-Noir, 1 Horror, 2 Musical, 1 Mystery, 4 Romance, 2 Sci-Fi, 2 Thriller, 1 War, 2 Western
+1956 : 2 Adventure, 1 Comedy, 1 Crime, 6 Drama, 2 Film-Noir, 2 Horror, 1 Musical, 7 Sci-Fi, 3 Thriller, 1 War, 1 Western
+1957 : 1 Children's, 6 Comedy, 1 Documentary, 8 Drama, 3 Horror, 2 Musical, 3 Romance, 3 Sci-Fi, 1 Thriller, 2 War
+1958 : 2 Action, 2 Adventure, 3 Comedy, 1 Crime, 8 Drama, 1 Fantasy, 1 Film-Noir, 5 Horror, 3 Musical, 1 Mystery, 3 Romance, 3 Sci-Fi, 2 Thriller, 2 War, 2 Western
+1959 : 1 Action, 2 Adventure, 1 Animation, 3 Children's, 3 Comedy, 1 Crime, 8 Drama, 1 Fantasy, 8 Horror, 1 Musical, 1 Mystery, 4 Sci-Fi, 1 Thriller, 1 War
+1960 : 1 Adventure, 3 Children's, 3 Comedy, 1 Crime, 7 Drama, 6 Horror, 1 Musical, 1 Sci-Fi, 4 Thriller
+1961 : 1 Action, 1 Adventure, 1 Animation, 4 Children's, 3 Comedy, 11 Drama, 2 Fantasy, 1 Horror, 3 Musical, 2 Romance, 1 Sci-Fi, 1 Thriller, 2 War, 1 Western
+1962 : 4 Action, 4 Adventure, 2 Children's, 8 Drama, 2 Film-Noir, 3 Horror, 1 Musical, 2 Sci-Fi, 4 Thriller, 2 War, 1 Western
+1963 : 1 Action, 3 Adventure, 1 Animation, 3 Children's, 7 Comedy, 1 Crime, 7 Drama, 6 Horror, 1 Mystery, 1 Romance, 2 Sci-Fi, 4 Thriller, 2 War, 1 Western
+1964 : 2 Action, 1 Children's, 4 Comedy, 4 Drama, 2 Horror, 5 Musical, 1 Romance, 2 Thriller, 1 Western
+1965 : 2 Action, 1 Children's, 6 Comedy, 6 Drama, 2 Horror, 3 Musical, 1 Mystery, 2 Romance, 1 Sci-Fi, 3 Thriller, 1 War, 2 Western
+1966 : 1 Action, 1 Adventure, 1 Comedy, 1 Documentary, 5 Drama, 1 Horror, 1 Mystery, 2 Romance, 1 Sci-Fi, 1 Thriller, 2 Western
+1967 : 1 Action, 2 Adventure, 1 Animation, 3 Children's, 10 Comedy, 1 Crime, 9 Drama, 3 Musical, 1 Mystery, 1 Romance, 1 Sci-Fi, 2 War, 3 Western
+1968 : 1 Action, 1 Adventure, 2 Animation, 2 Children's, 3 Comedy, 2 Crime, 8 Drama, 4 Horror, 3 Musical, 1 Mystery, 1 Romance, 4 Sci-Fi, 3 Thriller, 2 War
+1969 : 4 Action, 3 Adventure, 1 Children's, 4 Comedy, 1 Crime, 4 Drama, 1 Horror, 2 Thriller, 2 War, 5 Western
+1970 : 2 Action, 1 Animation, 2 Children's, 6 Comedy, 2 Crime, 6 Drama, 1 Horror, 1 Sci-Fi, 1 Thriller, 4 War, 1 Western
+1971 : 4 Action, 2 Adventure, 4 Children's, 7 Comedy, 2 Crime, 1 Documentary, 9 Drama, 1 Fantasy, 1 Horror, 1 Musical, 1 Mystery, 1 Romance, 3 Sci-Fi, 2 Thriller, 1 War, 2 Western
+1972 : 4 Action, 3 Adventure, 3 Comedy, 3 Crime, 6 Drama, 3 Horror, 1 Musical, 2 Sci-Fi, 2 Thriller, 1 War, 3 Western
+1973 : 5 Action, 3 Animation, 2 Children's, 5 Comedy, 6 Crime, 11 Drama, 5 Horror, 5 Sci-Fi, 2 Thriller, 3 Western
+1974 : 8 Action, 4 Adventure, 2 Children's, 7 Comedy, 1 Crime, 9 Drama, 1 Film-Noir, 5 Horror, 2 Mystery, 2 Thriller, 2 Western
+1975 : 1 Action, 2 Adventure, 2 Children's, 6 Comedy, 2 Crime, 1 Documentary, 9 Drama, 1 Fantasy, 3 Horror, 3 Musical, 1 Mystery, 1 Romance, 2 Sci-Fi, 2 Thriller, 1 Western
+1976 : 4 Action, 3 Adventure, 1 Children's, 5 Comedy, 8 Drama, 5 Horror, 1 Musical, 1 Romance, 1 Sci-Fi, 4 Thriller, 1 Western
+1977 : 3 Action, 7 Adventure, 2 Animation, 6 Children's, 7 Comedy, 4 Drama, 1 Fantasy, 4 Horror, 1 Musical, 2 Romance, 3 Sci-Fi, 1 Thriller, 1 War
+1978 : 4 Action, 2 Adventure, 2 Animation, 4 Children's, 7 Comedy, 1 Crime, 10 Drama, 1 Fantasy, 5 Horror, 1 Musical, 1 Mystery, 1 Romance, 5 Sci-Fi, 3 Thriller, 3 War, 1 Western
+1979 : 6 Action, 3 Adventure, 2 Children's, 10 Comedy, 12 Drama, 3 Horror, 1 Musical, 1 Mystery, 2 Romance, 9 Sci-Fi, 3 Thriller, 1 War, 1 Western
+1980 : 5 Action, 6 Adventure, 1 Children's, 13 Comedy, 1 Crime, 18 Drama, 10 Horror, 2 Musical, 4 Romance, 3 Sci-Fi, 1 Thriller, 4 War
+1981 : 12 Action, 7 Adventure, 3 Animation, 3 Children's, 9 Comedy, 3 Crime, 1 Documentary, 14 Drama, 2 Fantasy, 9 Horror, 1 Musical, 1 Mystery, 3 Romance, 4 Sci-Fi, 5 Thriller, 2 War
+1982 : 7 Action, 4 Adventure, 2 Animation, 3 Children's, 12 Comedy, 1 Crime, 1 Documentary, 21 Drama, 3 Fantasy, 1 Film-Noir, 10 Horror, 3 Musical, 2 Romance, 9 Sci-Fi, 3 Thriller, 1 War
+1983 : 4 Action, 2 Adventure, 1 Children's, 14 Comedy, 1 Documentary, 11 Drama, 11 Horror, 3 Romance, 2 Sci-Fi, 4 Thriller, 2 War
+1984 : 11 Action, 8 Adventure, 2 Children's, 17 Comedy, 2 Crime, 1 Documentary, 23 Drama, 4 Fantasy, 1 Film-Noir, 7 Horror, 1 Musical, 2 Mystery, 6 Romance, 13 Sci-Fi, 6 Thriller, 5 War
+1985 : 11 Action, 13 Adventure, 1 Animation, 6 Children's, 22 Comedy, 22 Drama, 6 Fantasy, 8 Horror, 3 Mystery, 10 Romance, 8 Sci-Fi, 3 Thriller, 3 War, 1 Western
+1986 : 21 Action, 13 Adventure, 3 Animation, 7 Children's, 37 Comedy, 3 Crime, 38 Drama, 2 Fantasy, 21 Horror, 2 Musical, 4 Mystery, 8 Romance, 8 Sci-Fi, 12 Thriller, 5 War, 1 Western
+1987 : 17 Action, 8 Adventure, 2 Children's, 29 Comedy, 5 Crime, 21 Drama, 2 Fantasy, 1 Film-Noir, 15 Horror, 1 Musical, 2 Mystery, 8 Romance, 6 Sci-Fi, 7 Thriller, 4 War
+1988 : 13 Action, 9 Adventure, 3 Animation, 1 Children's, 23 Comedy, 2 Crime, 3 Documentary, 20 Drama, 4 Fantasy, 1 Film-Noir, 10 Horror, 1 Musical, 5 Romance, 6 Sci-Fi, 9 Thriller, 3 War, 1 Western
+1989 : 9 Action, 8 Adventure, 2 Animation, 5 Children's, 24 Comedy, 4 Crime, 2 Documentary, 23 Drama, 1 Fantasy, 11 Horror, 1 Musical, 5 Romance, 7 Sci-Fi, 5 Thriller, 2 War
+1990 : 19 Action, 6 Adventure, 2 Animation, 4 Children's, 22 Comedy, 7 Crime, 2 Documentary, 27 Drama, 2 Fantasy, 1 Film-Noir, 16 Horror, 1 Mystery, 10 Romance, 6 Sci-Fi, 14 Thriller, 3 Western
+1991 : 6 Action, 4 Adventure, 2 Animation, 3 Children's, 24 Comedy, 1 Crime, 1 Documentary, 26 Drama, 3 Fantasy, 3 Horror, 2 Musical, 4 Mystery, 9 Romance, 6 Sci-Fi, 7 Thriller, 1 War
+1992 : 21 Action, 3 Adventure, 3 Animation, 7 Children's, 37 Comedy, 10 Crime, 1 Documentary, 38 Drama, 1 Fantasy, 12 Horror, 3 Musical, 2 Mystery, 14 Romance, 8 Sci-Fi, 14 Thriller, 3 War, 1 Western
+1993 : 25 Action, 10 Adventure, 4 Animation, 12 Children's, 47 Comedy, 8 Crime, 5 Documentary, 81 Drama, 3 Fantasy, 1 Film-Noir, 9 Horror, 3 Musical, 7 Mystery, 18 Romance, 11 Sci-Fi, 22 Thriller, 5 War, 2 Western
+1994 : 32 Action, 15 Adventure, 5 Animation, 20 Children's, 96 Comedy, 9 Crime, 11 Documentary, 121 Drama, 5 Fantasy, 13 Horror, 2 Musical, 3 Mystery, 37 Romance, 8 Sci-Fi, 31 Thriller, 7 War, 6 Western
+1995 : 45 Action, 25 Adventure, 8 Animation, 22 Children's, 89 Comedy, 18 Crime, 22 Documentary, 158 Drama, 4 Fantasy, 1 Film-Noir, 16 Horror, 4 Musical, 8 Mystery, 50 Romance, 18 Sci-Fi, 43 Thriller, 12 War, 4 Western
+1996 : 37 Action, 22 Adventure, 7 Animation, 20 Children's, 115 Comedy, 23 Crime, 19 Documentary, 150 Drama, 5 Fantasy, 2 Film-Noir, 12 Horror, 7 Musical, 6 Mystery, 48 Romance, 14 Sci-Fi, 45 Thriller, 8 War, 1 Western
+1997 : 43 Action, 22 Adventure, 6 Animation, 22 Children's, 98 Comedy, 26 Crime, 11 Documentary, 139 Drama, 6 Fantasy, 2 Film-Noir, 10 Horror, 5 Musical, 15 Mystery, 52 Romance, 18 Sci-Fi, 55 Thriller, 10 War
+1998 : 44 Action, 16 Adventure, 8 Animation, 18 Children's, 112 Comedy, 25 Crime, 18 Documentary, 166 Drama, 2 Fantasy, 3 Film-Noir, 15 Horror, 3 Musical, 10 Mystery, 58 Romance, 17 Sci-Fi, 51 Thriller, 5 War, 1 Western
+1999 : 27 Action, 7 Adventure, 7 Animation, 11 Children's, 103 Comedy, 12 Crime, 15 Documentary, 130 Drama, 2 Fantasy, 14 Horror, 1 Musical, 5 Mystery, 37 Romance, 15 Sci-Fi, 40 Thriller, 4 War, 1 Western
+2000 : 19 Action, 6 Adventure, 8 Animation, 9 Children's, 69 Comedy, 8 Crime, 8 Documentary, 55 Drama, 1 Fantasy, 8 Horror, 1 Musical, 1 Mystery, 17 Romance, 10 Sci-Fi, 25 Thriller, 2 War
